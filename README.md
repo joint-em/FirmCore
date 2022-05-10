@@ -2,7 +2,7 @@
 
 Run the following command from the folder "Code/"
 
-" python main.py [-h] [--save] [--dic] [-l L] [-b B]  d m g"
+" python main_FirmCore.py [-h] [--save] [--dic] [-l L] [-b B]  d m g"
 
 positional arguments: 
 
