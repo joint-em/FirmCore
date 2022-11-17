@@ -84,7 +84,7 @@ python  main_FirmCore.py  Homo  core  undirected  -l  3
 ```
 4.  
 ```
-python  main_FirmCore.py  Homo  densest  undirected  -b  1.1"
+python  main_FirmCore.py  Homo  densest  undirected  -b  1.1
 ```
 
 
