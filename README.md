@@ -1,7 +1,7 @@
 FirmCore Decomposition of Multilayer Networks
 ================================================
 
-This repository contains the implementation of algorithms, and used datasets of paper "FirmCore Decomposition of Multilayer Networks" (ACM The Web Conference 2022 (WWW)). 
+This repository contains the implementation of algorithms, and used datasets of paper ``FirmCore Decomposition of Multilayer Networks`` (ACM The Web Conference 2022 (WWW)). 
 
 
 #### Authors: [Ali Behrouz](https://abehrouz.github.io/), [Farnoosh Hashemi](https://farnooshha.github.io//), [Laks V.S. Lakshmanan](https://www.cs.ubc.ca/~laks/)
